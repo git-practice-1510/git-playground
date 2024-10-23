@@ -1,2 +1,4 @@
 getOne
 getMany
+getManyWithFilter
+updateOne
