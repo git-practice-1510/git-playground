@@ -1,0 +1,4 @@
+getOne
+getMany
+getManyWithFilter
+updateOne
