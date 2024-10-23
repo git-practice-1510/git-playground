@@ -1,2 +1,10 @@
-getOne
+get me
+update me
+fix error update me
+fix error get me
+logger for update me
+logger for get me
 getMany
+getOne
+updateOne
+deleteOne

@@ -1,8 +1,13 @@
 bootstrap
 logger
 use validation pipe
-cookie-parser
+cookie-parserz
+body-parser
 implement globale exception filter
 set global prefix api
+
 add user module to app module
 add interceptor for user module
+
+use interceptor for user module
+
