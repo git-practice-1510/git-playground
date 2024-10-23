@@ -1,7 +1,7 @@
 bootstrap
 logger
 use validation pipe
-cookie-parser
+cookie-parserz
 body-parser
 implement globale exception filter
 set global prefix api
