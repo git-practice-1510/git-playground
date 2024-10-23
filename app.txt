@@ -4,3 +4,5 @@ use validation pipe
 cookie-parser
 implement globale exception filter
 set global prefix api
+add user module to app module
+add interceptor for user module
