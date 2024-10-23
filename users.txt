@@ -6,3 +6,5 @@ logger for update me
 logger for get me
 getMany
 getOne
+updateOne
+deleteOne
