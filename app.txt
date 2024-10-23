@@ -1,0 +1,6 @@
+bootstrap
+logger
+use validation pipe
+cookie-parser
+implement globale exception filter
+set global prefix api
